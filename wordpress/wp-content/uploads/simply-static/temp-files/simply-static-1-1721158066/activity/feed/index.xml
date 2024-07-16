@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Philanthropist | Site-Wide Activity</title>
+	<link>https://philanthropist-hash.github.io/philanthropist/activity/</link>
+	<atom:link href="https://philanthropist-hash.github.io/philanthropist/activity/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for the entire site.</description>
+	<lastBuildDate>Tue, 16 Jul 2024 18:51:27 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">45ba30591d8e29c65e815ec2ba321c28</guid>
+				<title>hi</title>
+				<link>https://philanthropist-hash.github.io/philanthropist/activity/p/4/</link>
+				<pubDate>Mon, 15 Jul 2024 18:31:53 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="activity-inner"><p>hi</p>
+</div>]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">97ce3305d1cf6eb5cf39e9abf0b6a810</guid>
+				<title></title>
+				<link>https://philanthropist-hash.github.io/philanthropist/activity/p/3/</link>
+				<pubDate>Mon, 15 Jul 2024 18:31:39 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="activity-inner"><p><img loading="lazy" alt="&#x1f606;" class="emojioneemoji" src="https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f606.png" /><img loading="lazy" alt="&#x1f606;" class="emojioneemoji" src="https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f606.png" /><img loading="lazy" alt="&#x1f606;" class="emojioneemoji" src="https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f606.png" /><img loading="lazy" alt="&#x1f606;" class="emojioneemoji" src="https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f606.png" /></p>
+</div>]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Philanthropist | Mahesh | Favorites</title>
+	<link>https://philanthropist-hash.github.io/philanthropist/members/mahesh/activity/favorites/</link>
+	<atom:link href="https://philanthropist-hash.github.io/philanthropist/members/mahesh/activity/favorites/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed of Mahesh&#039;s favorites.</description>
+	<lastBuildDate>Tue, 16 Jul 2024 18:51:27 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">67f393a6868255e60bed003ae64c12bc</guid>
+				<title>hui</title>
+				<link>https://philanthropist-hash.github.io/philanthropist/activity/p/2/</link>
+				<pubDate>Mon, 15 Jul 2024 18:30:41 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="activity-inner"><p>hui</p>
+</div><div class="youzify-post-attachments">		<a href="https://media3.giphy.com/media/RKNNW4sy4SH0vCZ3ar/giphy.gif" rel="nofollow" class="youzify-img-with-padding" data-youzify-lightbox="youzify-post-2"><img loading="lazy" class='lazyload' data-src='https://media3.giphy.com/media/RKNNW4sy4SH0vCZ3ar/giphy.gif' alt=""></a>
+		</div>]]></content:encoded>
+				
+									<slash:comments>1</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
